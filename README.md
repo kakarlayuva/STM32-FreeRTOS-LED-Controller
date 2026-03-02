@@ -22,3 +22,8 @@ This project demonstrates multitasking using FreeRTOS on STM32F407.
 - Task scheduling
 - vTaskDelay
 - Priority-based execution
+
+## 📷 Hardware Setup
+![Setup](STM32 board.jpg)
+
+
